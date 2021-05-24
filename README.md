@@ -1,7 +1,7 @@
 # **Introduction**
 My name is Amaan Khan and I am 17 years old. I am a first year student pursuing Bachelor's degree (Btech.) in Computer Science.
 
-I aspire to become a knowledgeable software developer and to realise that dream, I am learning new things everyday.  
+I aspire to become a knowledgeable software developer and to realize that dream, I am learning new things everyday.  
  
 # **Languages and Frameworks**
 * Python
