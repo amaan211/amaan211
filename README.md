@@ -16,8 +16,9 @@ I aspire to become a knowledgeable software developer and to realise that dream,
 ![Alt text](https://wakatime.com/share/@05f4922c-906c-451e-a060-b9bf588a931e/17518507-9e50-43a6-a6ef-ea1bdab79354.svg) -->
 
 # **Say Hi :)**
-[Instagram](https://www.instagram.com/not_not_amaan/), [Linkedin](https://www.linkedin.com/in/amaan-khan-16a9a71b9/), 
-<a href="mailto:khanamaan827@gmail.com">Email</a>
+<a href="https://www.instagram.com/not_not_amaan/" target="_blank">Instagram</a>,
+<a href="https://www.linkedin.com/in/amaan-khan-16a9a71b9/" target="_blank">Linkedin</a>,
+<a href="mailto:khanamaan827@gmail.com" target = "_blank">Email</a>
 
 
 
