@@ -18,7 +18,7 @@ I aspire to become a knowledgeable software developer and to realise that dream,
 # **Say Hi :)**
 <a href="https://www.instagram.com/not_not_amaan/" target="_blank">Instagram</a>,
 <a href="https://www.linkedin.com/in/amaan-khan-16a9a71b9/" target="_blank">Linkedin</a>,
-<a href="mailto:khanamaan827@gmail.com" target = "_blank">Email</a>
+[Email](mailto:khanamaan827@gmail.com)
 
 
 
