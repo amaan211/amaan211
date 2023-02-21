@@ -5,6 +5,7 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaan211&theme=onedark" alt="amaan211" /></a> </p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amaan211&show_icons=true&locale=en&theme=dark" alt="amaan211" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amaan211&show_icons=true&locale=en&layout=compact&theme=dark" alt="amaan211" /></p>
 
 - 🌱 I’m currently learning **ReactJS, Node**
 
