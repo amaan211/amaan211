@@ -1,16 +1,16 @@
-<img src="/cover.jpg" alt="cover">
-<h1 align="center">Hi 👋, I'm Amaan Khan</h1>
-<h3 align="center">A 22 year old who loves everything tech.</h3>
+<img src="/cover.jpg" alt="cover" height=200>
+<h1 align="center">Hi, I'm Amaan Khan</h1>
+<h3 align="center">A 22 year old cybersecurity engineer who loves everything tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan211&label=Profile%20views&color=0e75b6&style=flat" alt="amaan211" /> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaan211&theme=onedark" alt="amaan211" /></a> </p> -->
 
-- 🌱 I’m currently learning **ReactJS, Node**
+- 🌱 I’m currently learning **web application security**
 
-- 💬 Ask me about **ReactJS, python, java**
+- 💬 Ask me about **distrohopping and ricing**
 
-- ⚡ Fun fact **I like pizza with pineapple**
+- ⚡ Fun fact **I use arch btw*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
