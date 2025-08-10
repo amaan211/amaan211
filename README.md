@@ -1,4 +1,4 @@
-<img src="/cover.jpg" alt="cover" width="1011" height="202">
+<img src="/cover.jpg" alt="cover">
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
 <h3 align="center">A 22 year old who loves everything tech.</h3>
 
