@@ -1,7 +1,7 @@
 ![img](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
-<h3 align="center">A 21 year old who loves everything tech.</h3>
+<h3 align="center">A 22 year old who loves everything tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaan211&label=Profile%20views&color=0e75b6&style=flat" alt="amaan211" /> </p>
 
