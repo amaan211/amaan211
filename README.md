@@ -1,5 +1,4 @@
-![img](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-
+<img src="/cover.jpg" alt="cover" width="1011" height="202">
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
 <h3 align="center">A 22 year old who loves everything tech.</h3>
 
