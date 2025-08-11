@@ -26,6 +26,8 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Tunnnels](https://www.notamaan.xyz/posts/tunnnels/)
+- [My OSCP Experience](https://www.notamaan.xyz/posts/my-oscp-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
