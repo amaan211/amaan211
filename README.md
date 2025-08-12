@@ -26,8 +26,8 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Tunnnels](http://localhost:1313/posts/tunnnels/)
-- [My Experience with OSCP](http://localhost:1313/posts/my-oscp-experience/)
+- [Tunnnels](https://www.notamaan.xyz/posts/tunnnels/)
+- [My Experience with OSCP](https://www.notamaan.xyz/posts/my-oscp-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
