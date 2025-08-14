@@ -26,7 +26,7 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with OSCP](https://www.notamaan.xyz/posts/my-oscp-experience/)
+- [My Experience with OSCP 🐉](https://www.notamaan.xyz/posts/my-oscp-experience/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
