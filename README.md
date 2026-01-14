@@ -26,9 +26,10 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [🕵️ Hunting for Leaked Secrets on Github &lpar;I Used AI&rpar; 🤖](https://www.notamaan.xyz/posts/github-leaked-credentials/)
-- [My Experience with OSCP 🐉](https://www.notamaan.xyz/posts/my-oscp-experience/)
-- [Tunnels! Best Way to Access your Home Network from Outside 🚇🏠🌍](https://www.notamaan.xyz/posts/tunnnels/)
+- [exploring c2](http://localhost:1313/posts/exploring-c2/)
+- [🕵️ Hunting for Leaked Secrets on Github &lpar;I Used AI&rpar; 🤖](http://localhost:1313/posts/github-leaked-credentials/)
+- [My Experience with OSCP 🐉](http://localhost:1313/posts/my-oscp-experience/)
+- [Moving to Ireland!](http://localhost:1313/posts/moving-to-ireland/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
