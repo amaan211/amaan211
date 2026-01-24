@@ -26,10 +26,10 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [Hacking my Router to Steal Credentials](https://www.notamaan.xyz/posts/hacking-my-router/)
 - [🧑‍💻Learning C2 with Sliver🛰️](https://www.notamaan.xyz/posts/exploring-c2-with-sliver/)
 - [🕵️ Hunting for Leaked Secrets on Github &lpar;I Used AI&rpar; 🤖](https://www.notamaan.xyz/posts/github-leaked-credentials/)
 - [My Experience with OSCP 🐉](https://www.notamaan.xyz/posts/my-oscp-experience/)
-- [Tunnels! Best Way to Access your Home Network from Outside 🚇🏠🌍](https://www.notamaan.xyz/posts/tunnnels/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
