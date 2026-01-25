@@ -26,7 +26,7 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [hacking my router for fun and profit](https://www.notamaan.xyz/posts/hacking-my-router/)
+- [🛠️ Hacking My Router for Fun and Profit 💰](https://www.notamaan.xyz/posts/hacking-my-router/)
 - [🧑‍💻Learning C2 with Sliver🛰️](https://www.notamaan.xyz/posts/exploring-c2-with-sliver/)
 - [🕵️ Hunting for Leaked Secrets on Github &lpar;I Used AI&rpar; 🤖](https://www.notamaan.xyz/posts/github-leaked-credentials/)
 - [My Experience with OSCP 🐉](https://www.notamaan.xyz/posts/my-oscp-experience/)
