@@ -26,10 +26,10 @@
 ### Recent Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [😈 Scamming Scammers &lpar;Gone Wrong!&rpar; 😱](https://www.notamaan.xyz/posts/fun-with-scammers/)
-- [🛠️ Hacking My Router for Fun and Profit 💰](https://www.notamaan.xyz/posts/hacking-my-router/)
-- [🧑‍💻Learning C2 with Sliver🛰️](https://www.notamaan.xyz/posts/exploring-c2-with-sliver/)
-- [🕵️ Hunting for Leaked Secrets on Github &lpar;I Used AI&rpar; 🤖](https://www.notamaan.xyz/posts/github-leaked-credentials/)
+- [😈 Scamming Scammers &lpar;Gone Wrong!&rpar; 😱](http://localhost:1313/posts/fun-with-scammers/)
+- [🛠️ Hacking My Router for Fun and Profit 💰](http://localhost:1313/posts/hacking-my-router/)
+- [🧑‍💻Learning C2 with Sliver🛰️](http://localhost:1313/posts/exploring-c2-with-sliver/)
+- [🕵️ Hunting for Leaked Secrets on Github &lpar;I Used AI&rpar; 🤖](http://localhost:1313/posts/github-leaked-credentials/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Stats:
